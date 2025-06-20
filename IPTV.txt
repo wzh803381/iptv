@@ -37,6 +37,8 @@ http://192.168.1.211:4022/udp/233.50.201.192:5140
 http://192.168.1.211:4022/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://192.168.1.211:4022/udp/233.50.200.113:5140
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="央视频道",CETV4
+http://192.168.1.211:4022/udp/233.50.200.162:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://192.168.1.211:4022/udp/233.50.201.100:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
@@ -117,8 +119,6 @@ http://192.168.1.211:4022/udp/233.50.201.178:5140
 http://192.168.1.211:4022/udp/233.50.201.179:5140
 #EXTINF:-1 tvg-name="宁波影视" tvg-logo="https://live.fanmingming.cn/tv/宁波影视.png" group-title="浙江频道内网V4",宁波影视
 http://192.168.1.211:4022/udp/233.50.201.180:5140
-#EXTINF:-1 tvg-name="宁波少儿" tvg-logo="https://live.fanmingming.cn/tv/宁波少儿.png" group-title="浙江频道内网V4",宁波少儿
-http://192.168.1.211:4022/udp/233.50.201.181:5140
 #EXTINF:-1 tvg-name="温州综合" tvg-logo="https://live.fanmingming.cn/tv/温州综合.png" group-title="浙江频道内网V4",温州综合
 http://192.168.1.211:4022/udp/233.50.201.87:5140
 #EXTINF:-1 tvg-name="绍兴综合" tvg-logo="https://live.fanmingming.cn/tv/绍兴综合.png" group-title="浙江频道内网V4",绍兴综合
@@ -159,10 +159,6 @@ http://192.168.1.211:4022/udp/233.50.201.226:5140
 http://192.168.1.211:4022/udp/233.50.201.116:5140
 #EXTINF:-1 tvg-name="轮播频道" tvg-logo="https://live.fanmingming.cn/tv/轮播频道.png" group-title="特色频道",轮播频道
 http://192.168.1.211:4022/udp/233.50.201.117:5140
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="特色频道",CETV4
-http://192.168.1.211:4022/udp/233.50.200.162:5140
-#EXTINF:-1 tvg-name="导视" tvg-logo="https://live.fanmingming.cn/tv/导视.png" group-title="特色频道",导视
-http://192.168.1.211:4022/udp/233.50.201.182:5140
 #EXTINF:-1 tvg-name="BesTVLIVE" tvg-logo="https://live.fanmingming.cn/tv/BesTVLIVE.png" group-title="特色频道",BesTVLIVE
 http://192.168.1.211:4022/udp/233.50.201.201:5140
 #EXTINF:-1 tvg-name="BesTVLIVE" tvg-logo="https://live.fanmingming.cn/tv/BesTVLIVE.png" group-title="特色频道",BesTVLIVE
