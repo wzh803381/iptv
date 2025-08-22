@@ -67,6 +67,16 @@ http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",group-title="央视",CCTV-1 综合
 http://iptv.wzh3381.cn:4022/udp/233.50.201.118:5140
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",group-title="央视",CCTV-3 综艺
+http://iptv.wzh3381.cn:4022/udp/233.50.201.196:5140
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",group-title="央视",CCTV-4 中文国际
+http://iptv.wzh3381.cn:4022/udp/233.50.200.101:5140
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",group-title="央视",CCTV-5 体育
+http://iptv.wzh3381.cn:4022/udp/233.50.201.197:5140
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png",group-title="央视",CCTV-5+ 体育赛事
+http://iptv.wzh3381.cn:4022/udp/233.50.201.220:5140
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png",group-title="央视",CCTV-6 电影
+http://iptv.wzh3381.cn:4022/udp/233.50.201.198:5140
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png",group-title="央视",CCTV-8 电视剧
 http://iptv.wzh3381.cn:4022/udp/233.50.201.199:5140
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png",group-title="央视",CCTV-13 新闻
@@ -87,12 +97,16 @@ http://iptv.wzh3381.cn:4022/udp/233.50.201.106:5140
 http://iptv.wzh3381.cn:4022/udp/233.50.201.101:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视",广东卫视
 http://iptv.wzh3381.cn:4022/udp/233.50.201.102:5140
-
-
-
-
-
-
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视",江西卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.145:5140
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视",安徽卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.113:5140
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视",湖北卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.114:5140
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.115:5140
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视",云南卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.200.115:5140
 
 
 
