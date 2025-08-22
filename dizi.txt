@@ -103,12 +103,42 @@ http://iptv.wzh3381.cn:4022/udp/233.50.201.145:5140
 http://iptv.wzh3381.cn:4022/udp/233.50.201.113:5140
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视",湖北卫视
 http://iptv.wzh3381.cn:4022/udp/233.50.201.114:5140
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视",河北卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.140:5140
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视",河南卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.144:5140
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视",陕西卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.59:5140
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视",山西卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.51:5140
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.57:5140
+#EXTINF:-1 tvg-name="青海卫视"tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视",青海卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.65:5140
+#EXTINF:-1 tvg-name="甘肃卫视"tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.200.163:5140
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://iptv.wzh3381.cn:4022/udp/233.50.201.115:5140
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视",云南卫视
-http://iptv.wzh3381.cn:4022/udp/233.50.200.115:5140
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视",吉林卫视
 http://iptv.wzh3381.cn:4022/udp/233.50.202.42:5140
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.141:5140
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视",云南卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.200.115:5140
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视",贵州卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.142:5140
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视",四川卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.139:5140
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视",重庆卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.143:5140
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视",广西卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.200.136:5140
+#EXTINF:-1 tvg-name="东南卫视"tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视",东南卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.201.146:5140
+#EXTINF:-1 tvg-name="海南卫视"tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视",海南卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.200.165:5140
+#EXTINF:-1 tvg-name="三沙卫视"tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视",三沙卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.200.175:5140
 
 
 
