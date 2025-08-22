@@ -107,6 +107,8 @@ http://iptv.wzh3381.cn:4022/udp/233.50.201.114:5140
 http://iptv.wzh3381.cn:4022/udp/233.50.201.115:5140
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视",云南卫视
 http://iptv.wzh3381.cn:4022/udp/233.50.200.115:5140
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视",吉林卫视
+http://iptv.wzh3381.cn:4022/udp/233.50.202.42:5140
 
 
 
