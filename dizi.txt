@@ -20,10 +20,14 @@ http://wzh3381.cn:4022/udp/233.50.201.136:5140
 #EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.cn/tv/浙江经视.png",group-title="浙江频道",浙江经视
 http://wzh3381.cn:4022/udp/233.50.201.133:5140
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",杭州1综合
+http://36.24.229.200:4022/udp/233.50.201.173:5140
+http://125.120.36.143:4000/udp/233.50.201.173:5140
 http://wzh3381.cn:4022/udp/233.50.201.173:5140
 #EXTINF:-1 tvg-name="杭州西湖明珠" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",杭州2明珠
 http://wzh3381.cn:4022/udp/233.50.201.174:5140
 #EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/hztv3.png" group-title="浙江频道",杭州3生活
+http://36.24.229.200:4022/udp/233.50.201.175:5140
+http://125.120.36.143:4000/udp/233.50.201.175:5140
 http://wzh3381.cn:4022/udp/233.50.201.175:5140
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/hztv4.png" group-title="浙江频道",杭州4影视
 http://wzh3381.cn:4022/udp/233.50.201.176:5140
@@ -149,6 +153,7 @@ http://wzh3381.cn:4022/udp/233.50.201.146:5140
 http://wzh3381.cn:4022/udp/233.50.200.165:5140
 #EXTINF:-1 tvg-name="三沙卫视频道"tvg-logo="https://live.fanmingming.cn/tv/三沙卫视频道.png" group-title="卫视频道",三沙卫视频道
 http://wzh3381.cn:4022/udp/233.50.200.175:5140
+
 
 
 
